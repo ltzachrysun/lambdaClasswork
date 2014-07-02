@@ -1,0 +1,6 @@
+C:\Users\Technologist\Documents\GitHub\lambda classwork\bin\Debug\lambda classwork.exe.config
+C:\Users\Technologist\Documents\GitHub\lambda classwork\obj\Debug\lambda classwork.csprojResolveAssemblyReference.cache
+C:\Users\Technologist\Documents\GitHub\lambda classwork\bin\Debug\lambda classwork.exe
+C:\Users\Technologist\Documents\GitHub\lambda classwork\bin\Debug\lambda classwork.pdb
+C:\Users\Technologist\Documents\GitHub\lambda classwork\obj\Debug\lambda classwork.exe
+C:\Users\Technologist\Documents\GitHub\lambda classwork\obj\Debug\lambda classwork.pdb
